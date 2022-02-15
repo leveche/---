@@ -1,0 +1,348 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass report
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 1
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Математика - 5й класс - Задание 2
+\end_layout
+
+\begin_layout Author
+%%AUTHOR%%
+\end_layout
+
+\begin_layout Date
+15 февраля 2017
+\end_layout
+
+\begin_layout Right Address
+%%ADDRESS%%
+\end_layout
+
+\begin_layout Section*
+Решение задачи №1
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $17+1717+171717=17\times(1+101+10101)$
+\end_inset
+
+ делится на 17.
+\end_layout
+
+\begin_layout Section*
+Решение задачи №2
+\end_layout
+
+\begin_layout Standard
+Если хотя бы одно из m или n четное, то 
+\begin_inset Formula $m\times n$
+\end_inset
+
+ тоже четное.
+ А если они оба нечетные, то 
+\begin_inset Formula $m+n$
+\end_inset
+
+ будет четным.
+ В любом случае получается, что 
+\begin_inset Formula $m\times n\times(m+n)$
+\end_inset
+
+ четное.
+\end_layout
+
+\begin_layout Section*
+Решение задачи №3
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $7a+5b=5(a+b)+2a=111$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Так как 
+\begin_inset Formula $2a$
+\end_inset
+
+ всегда четное, а 111 - нечетное число, то 
+\begin_inset Formula $5(a+b)$
+\end_inset
+
+ тоже нечетное.
+ Такое может быть только если 
+\begin_inset Formula $a+b$
+\end_inset
+
+ нечетное число.
+\end_layout
+
+\begin_layout Section*
+Решение задачи №4
+\end_layout
+
+\begin_layout Standard
+Запишем условие задачи в виде системы уравнений:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{eqnarray*}
+\text{9(И+П)=1}\\
+12(\text{П+В)=1}\\
+18(\text{В+И)=1}
+\end{eqnarray*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+НОК(9,12,18)=36, поэтому систему перепишем
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{eqnarray*}
+36(И+П)=6\\
+36(\text{П+В)=3}\\
+36(\text{В+И)=2}
+\end{eqnarray*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Теперь сложим все три уравнения:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $36(\text{И+П+П+В+В+И)=36\times2(И+В+П)=6+3+2=11}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Получается, что
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\frac{{72}}{11}(\text{И+В+П)=1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Это значит, что втроем они покрасят забор за 
+\begin_inset Formula $\frac{72}{11}$
+\end_inset
+
+ часов.
+\end_layout
+
+\begin_layout Section*
+Решение задачи №5
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $7(a+2)=7a+14=7a+4+10$
+\end_inset
+
+.
+ Так как 
+\begin_inset Formula $\text{a+2}$
+\end_inset
+
+ делится на 5, то 
+\begin_inset Formula $7(a+2)$
+\end_inset
+
+ делится на 5, поэтому 
+\begin_inset Formula $7a+4=7(\text{a+2)-10}$
+\end_inset
+
+ тоже делится на 5.
+\end_layout
+
+\begin_layout Section*
+Решение задачи №6
+\end_layout
+
+\begin_layout Standard
+Пусть неизвестные цифры будут x и y.
+ Так как 
+\begin_inset Formula $45=9\text{\times5}$
+\end_inset
+
+, то 72x4y делится на 5, поэтому либо y=0, или y=5.
+\end_layout
+
+\begin_layout Standard
+Теперь воспользуемся признаком делимости на 9.
+ 
+\end_layout
+
+\begin_layout Standard
+Если y=0, то 7+2+x+4+0=13+x должно делиться на 9, то есть x=5.
+\end_layout
+
+\begin_layout Standard
+Если y=5, то 7+2+x+4+5=9+9+x должно делиться на 9.
+ Тогда x=0 или x=9.
+\end_layout
+
+\begin_layout Standard
+Ответ: 72540, или 72045, или 72945.
+\end_layout
+
+\begin_layout Section*
+Решение задачи №7
+\end_layout
+
+\begin_layout Standard
+Такое число можно записать как 
+\begin_inset Formula $xyzxyz=xyz(1000+1)=1001\times xyz$
+\end_inset
+
+.
+ Но 
+\begin_inset Formula $1001=7\text{\times11\times13}$
+\end_inset
+
+, поэтому это число делится на 7,11 и 13.
+\end_layout
+
+\begin_layout Section*
+Решение задачи №9
+\end_layout
+
+\begin_layout Standard
+Пусть было x и y автобусов, а в каждом автобусе по z человек.
+ Тогда 424=xz и 477=yz.
+ Тогда 
+\begin_inset Formula $477-424=(y-x)z=53$
+\end_inset
+
+.
+ Но 53 - простое число, поэтому либо z=1 и (y-x)=53, либо z=53 и y-x=1.
+ В автобус вмещается больше одного человека, поэтому z=53.
+ Тогда x=8 и y=9.
+\end_layout
+
+\begin_layout Section*
+Решение задачи №10
+\end_layout
+
+\begin_layout Standard
+Решение этой залачи прилагается в виде программы 
+\begin_inset Quotes eld
+\end_inset
+
+anna GCD
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Section*
+Решение задачи №11
+\end_layout
+
+\begin_layout Standard
+Пусть загаданое число будет x.
+ Тогда x+1 делится на 2, на 3 и на 5 ( и на 6 тоже, но это уже получается
+ из-за делимости на 2 и 3).
+ Тогда x+1=30k, Наибольшее такое число x+1=90.
+ Поэтому x=89.
+\end_layout
+
+\begin_layout Section*
+Решение задачи №12
+\end_layout
+
+\begin_layout Standard
+Таня делает четные ходы, поэтому она сделает последний ход.
+ Она всегда может зависать последним такую цифру, что сумма всех цифр делилась
+ на 3.
+ Поэтому Таня всегда выиграет.
+\end_layout
+
+\end_body
+\end_document
