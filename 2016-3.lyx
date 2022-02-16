@@ -1,0 +1,271 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass report
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 1
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Математика - 5й класс - Задание 3
+\end_layout
+
+\begin_layout Author
+%%AUTHOR%%
+\end_layout
+
+\begin_layout Date
+2 марта 2017
+\end_layout
+
+\begin_layout Right Address
+%%ADDRESS%%
+\end_layout
+
+
+\begin_layout Section*
+Решение задачи №1
+\end_layout
+
+\begin_layout Standard
+Принцип Дирихле с 
+\begin_inset Formula $k=3,n=12$
+\end_inset
+
+: Если в каждом месяце три или меньше дней рождений учеников, то всего в
+ классе было бы не больше 
+\begin_inset Formula $3\times12=36<38$
+\end_inset
+
+ человек.
+\end_layout
+
+\begin_layout Section*
+Решение задачи №2
+\end_layout
+
+\begin_layout Standard
+Если каждый из 15 пятиклассников собрал разное количество шишек, то вместе
+ они соберут не меньше чем 
+\begin_inset Formula $0+1+2+\text{\cdots+13+14=\frac{15\times14}{2}=105>100}$
+\end_inset
+
+ шишек.
+\end_layout
+
+\begin_layout Section*
+Решение задачи №3
+\end_layout
+
+\begin_layout Standard
+9 кучек с различным числом шариков вместе соберут не меньше 
+\begin_inset Formula $1+\cdots+9=\frac{10\times9}{2}=45>44$
+\end_inset
+
+ шариков.
+\end_layout
+
+\begin_layout Section*
+Решение задачи №5
+\end_layout
+
+\begin_layout Standard
+Если в каждой аудитории два или меньше учеников 5А класса, то в девяти аудитория
+х вместе будет не больше 
+\begin_inset Formula $9\times2=18<19$
+\end_inset
+
+ учеников.
+\end_layout
+
+\begin_layout Section*
+Решение задачи №6
+\end_layout
+
+\begin_layout Standard
+Если в Новосибирске нет четырех жителей, имеющих одинаковое количество волос
+ на голове, то во всем Новосибирске не может быть больше чем 
+\begin_inset Formula $400000\times3=1200000<1500000$
+\end_inset
+
+ жителей.
+\end_layout
+
+\begin_layout Section*
+Решение задачи №7
+\end_layout
+
+\begin_layout Standard
+Если ящиков каждого сорта 6 или меньше, то всего ящиков было бы 
+\begin_inset Formula $6\times4=24<25$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Section*
+Решение задачи №8
+\end_layout
+
+\begin_layout Standard
+Если выбрать 13 шариков, то точно получим 4 шарика одного цвета (иначе бы
+ мы выбрали 
+\begin_inset Formula $3\times4=12<13)$
+\end_inset
+
+.
+ А если выбрать 12 шариков, то может оказаться так, что выпало по 3 шарика
+ каждого цвета.
+\end_layout
+
+\begin_layout Section*
+Решение задачи №9
+\end_layout
+
+\begin_layout Standard
+Если 
+\begin_inset Quotes eld
+\end_inset
+
+раздать
+\begin_inset Quotes erd
+\end_inset
+
+ каждому ученику (не считая Пети) число его ошибок в диктанте, то это будет
+ число от 0 до 8 включительно.
+ Если каждое количество ошибок было сделано 3 или меньшим количеством учеников,
+ то всего учеников было бы 
+\begin_inset Formula $9\times3=27<29=30-1$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Решение задачи №10
+\end_layout
+
+\begin_layout Standard
+Максимальное количество рукопожатий между 15 учениками равно 
+\begin_inset Formula $\frac{15\times14}{2}=105$
+\end_inset
+
+ - когда каждый из 15 друзей пожал руку 14 другим (но каждое рукопожатие
+ считается на два человека).
+ Если 15 друзей сделали разное количество рукопожатий, то вместе они сделали
+ не меньше 
+\begin_inset Formula $0+1+2+\cdots+14=105$
+\end_inset
+
+ рукопожатий.
+ при этом один из них сделал 0 рукопожатий, а кто-то пожал руку всем остальным
+ - включая того, кто не пожал руку никому.
+ Такого быть не может, поэтому как минимум двое сделали одинаковое количество
+ рукопожатий.
+\end_layout
+
+\begin_layout Section*
+Решение задачи №11
+\end_layout
+
+\begin_layout Standard
+Чтобы разность двух чисел делилась на 6, надо, чтобы эти два числа имели
+ одинаковый остаток при делении на 6.
+ Но остатков при делении на 6 может быть всего 6: 
+\begin_inset Formula $0,1,2,\cdots,5$
+\end_inset
+
+.
+ Из семи чисел всегда найдутся два с одинаковым остатком, и их разница будет
+ делиться на 6.
+\end_layout
+
+\begin_layout Section*
+Решение задачи №12
+\end_layout
+
+\begin_layout Standard
+Из трех чисел -1,0,+1 можно составить 7 сумм: -3,-2,-1,0,+1,+2,+3.
+ Всего в квадрате 3+3+2=8 сумм, поэтому какие-то две будут одинаковыми.
+\end_layout
+
+\begin_layout Section*
+Решение задачи №13
+\end_layout
+
+\begin_layout Standard
+Если между любыми двемя прямыми угол больше 17 градусов, то всего в круге
+ было бы больше 
+\begin_inset Formula $17\times12\times2=408$
+\end_inset
+
+ градусов.
+\end_layout
+
+\end_body
+\end_document
