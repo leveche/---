@@ -1,0 +1,381 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass report
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 1
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Математика - 5й класс - Задание 4
+\end_layout
+
+\begin_layout Author
+%%AUTHOR%%
+\end_layout
+
+\begin_layout Date
+5 февраля 2017
+\end_layout
+
+\begin_layout Right Address
+%%ADDRESS%%
+\end_layout
+
+\begin_layout Chapter*
+Задача 1
+\end_layout
+
+\begin_layout Section*
+Условие
+\end_layout
+
+\begin_layout Standard
+Какое двузначное число в 17 раз больше числа его едениц?
+\end_layout
+
+\begin_layout Section*
+Решение
+\end_layout
+
+\begin_layout Standard
+Запишем это число как 10x+y.
+ Получим 
+\end_layout
+
+\begin_layout Standard
+10x+y=17y
+\end_layout
+
+\begin_layout Standard
+10x=16y
+\end_layout
+
+\begin_layout Standard
+5x=8y
+\end_layout
+
+\begin_layout Standard
+y делится на 5, и x делится на 8.
+\end_layout
+
+\begin_layout Standard
+y=5, x=8
+\end_layout
+
+\begin_layout Standard
+Проверка: 
+\begin_inset Formula $17\times5=85$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter*
+Задача 2
+\end_layout
+
+\begin_layout Section*
+Решение
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $10x+y=15y$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $10x=14y$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $5x=7y$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $x=7,y=5$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Проверка: 
+\begin_inset Formula $15\times5=75$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter*
+Задача 3
+\end_layout
+
+\begin_layout Section*
+Решение
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $10y+x-(10x+y)=y$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $8y=9x$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $x=8,y=9$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Проверка: 
+\begin_inset Formula $98-89=9$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter*
+Задача 4
+\end_layout
+
+\begin_layout Section*
+Решение
+\end_layout
+
+\begin_layout Standard
+Если x-произвольное натуральное число, и y-цифра, которую мы ищем, то по
+ условию,
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $10x+y=x+y+xy$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $9x=xy$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $y=9$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Проверка: 
+\begin_inset Formula $119=11+9+11\times9$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter*
+Задача 5
+\end_layout
+
+\begin_layout Section*
+Решение
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $113_{10}=64+49=2^{6}+32+17=2^{6}+2^{5}+2^{4}+1=1110001_{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $113_{10}=81+32=3^{4}+27+5=3^{4}+3^{3}+3+2=11012_{3}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter*
+Задача 6
+\end_layout
+
+\begin_layout Section*
+Решение
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $1110101_{2}=1+0\times2+1\times4+0\times8+1\times16+1\times32+1\times64=5+48+64=117_{10}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $120202_{3}=2+0\times3+2\times9+0\times27+2\times81+1\times243=20+162+243=425_{10}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter*
+Задача 7
+\end_layout
+
+\begin_layout Section*
+Решение
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $1001_{2}+1101_{2}=1+1+2\times(0+0)+2^{2}\times(1+0)+2^{3}\times(1+1)=0+2\times1+2^{2}\times1+2^{3}\times0+2^{4}\times1=10110_{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $101_{2}\times1011_{2}=1011_{2}+0+2_{10}^{2}\times1011_{2}=101100_{2}+1011_{2}=110111_{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter*
+Задача 8
+\end_layout
+
+\begin_layout Section*
+Решение
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $112_{3}+120_{3}=2+3\times(2+1)+3^{2}\times(1+1)=2+3^{2}+2\times3^{2}=2+3^{3}=1002_{3}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $202_{3}+101_{3}=202_{3}+0+3_{10}^{2}\times202_{3}=20200_{3}+202_{3}=21102_{3}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter*
+Задача 9
+\end_layout
+
+\begin_layout Section*
+Решение
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $42+32\times60+2\times60^{2}+24\times60^{3}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter*
+Задача 10
+\end_layout
+
+\begin_layout Section*
+Решение
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $1+15\times20+13\times18\times20+14\times18\times20^{2}+6\times18\times20^{3}+4\times18\times20^{4}$
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
